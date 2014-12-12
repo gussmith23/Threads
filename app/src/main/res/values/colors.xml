@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="message_border">#00008B</color>
+    <color name="message_border_highlighted">#FFd700</color>
+    <color name="message_background">#CCCCCC</color>
+
+</resources>
