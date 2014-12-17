@@ -5,7 +5,6 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Point;
-import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.GestureDetector;
@@ -15,8 +14,6 @@ import android.view.View;
 import android.widget.RelativeLayout;
 
 import java.util.ArrayList;
-
-import us.justg.threads.util.Message;
 
 /**
  * @author Paresh Mayani (for pinch zoom stuff)
